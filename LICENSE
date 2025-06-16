@@ -1,0 +1,54 @@
+MIT License
+
+Copyright (c) 2025 Windows Optimizer Pro Team
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+## Gaming Optimization Notice
+
+This software is specifically designed for gaming optimization and hardware detection.
+Users are encouraged to:
+
+1. Create system backups before applying optimizations
+2. Test optimizations in safe environment first
+3. Report compatibility issues via GitHub Issues
+4. Contribute improvements back to the community
+
+## Hardware Support
+
+Windows Optimizer Pro supports a wide range of gaming hardware:
+- GPU: NVIDIA, AMD, Intel
+- Audio: SteelSeries, Razer, Logitech, HyperX, Corsair
+- Peripherals: Gaming mice, keyboards, controllers
+- Storage: SSD optimization and health monitoring
+- Network: Gaming-focused network adapters
+
+## Disclaimer
+
+This software modifies Windows system settings. While it includes backup
+and restore functionality, users should:
+- Run as administrator for full functionality
+- Create system restore points before use
+- Review changes before applying
+- Keep backups of important system configurations
+
+The authors are not responsible for any system issues that may arise from
+improper use of this software.

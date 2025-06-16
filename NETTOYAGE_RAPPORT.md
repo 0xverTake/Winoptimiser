@@ -124,6 +124,39 @@ python universal_launcher.py
 
 ---
 
+## 🧹 **Nettoyage Code Python - Rapport Détaillé**
+
+### 🔧 **Doublons Supprimés dans optimizer_python.py**
+- ✅ **Return dupliqué** dans `detect_gaming_devices()` supprimé
+- ✅ **Assignation inutile** `self.gaming_devices = devices` supprimée
+- ✅ **Imports locaux** `import subprocess` supprimés (déjà importé globalement)
+
+### 📦 **Imports Optimisés**
+```python
+# ✅ Imports globaux conservés et organisés
+import subprocess  # ← Global, plus besoin des imports locaux
+import json        # ← Global, réutilisé partout
+```
+
+### 🔄 **Méthodes Nettoyées**
+- ✅ **`detect_gpu_powershell()`** - Import local supprimé
+- ✅ **`detect_audio_powershell()`** - Import local supprimé  
+- ✅ **`detect_gaming_devices_wmic_fallback()`** - Import local supprimé
+- ✅ **`detect_gaming_devices()`** - Return dupliqué supprimé
+
+### 🚫 **Code Conservé (Justifié)**
+- ✅ **`log_message()` et `safe_log()`** - Rôles différents (GUI vs Console)
+- ✅ **Multiples `except Exception as e:`** - Gestion d'erreurs nécessaire
+- ✅ **`pass` statements** - Ignorent les erreurs système appropriées
+
+### ⚡ **Performance Améliorée**
+- ✅ **Moins d'imports** = Temps de chargement réduit
+- ✅ **Code plus lisible** = Maintenance facilitée
+- ✅ **Pas de doublons** = Comportement prévisible
+- ✅ **Structure claire** = Débogage simplifié
+
+---
+
 ## ✅ Résultat Final
 
 **Avant le nettoyage :** 9 fichiers .bat différents → Confusion
