@@ -1,5 +1,7 @@
 # 🚀 Windows Optimizer Pro - Gaming Edition v2.0
 
+![Gaming Performance Team](data_img/team.png)
+
 ## 🎯 Démarrage Ultra-Rapide
 
 ### 👆 **CLIQUEZ ICI POUR COMMENCER** 
