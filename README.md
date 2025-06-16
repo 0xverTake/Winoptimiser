@@ -117,24 +117,6 @@ python optimizer_python.py
 
 ---
 
-## 💼 Version Commerciale
-
-Cette version est **prête pour la commercialisation** :
-
-### 🏪 **Distribution**
-- ✅ **Microsoft Store** compatible (package MSIX)
-- ✅ **Distribution directe** possible
-- ✅ **Licence propriétaire** incluse
-- ✅ **Support professionnel** intégré
-
-### 🎯 **Public Cible**
-- 🎮 **Gamers professionnels** et streamers
-- ⚡ **Passionnés de performance** PC
-- 🏢 **Techniciens informatique**
-- 🏆 **Joueurs compétitifs** (eSports)
-
----
-
 ## 🔧 Prérequis
 
 ### 📋 **Système**
