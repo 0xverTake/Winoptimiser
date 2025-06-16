@@ -1,408 +1,273 @@
-<div align="center">
+# 🚀 Windows Optimizer Pro - Gaming Edition v2.0
 
-# 🚀 Windows Optimizer Python
+## 🎯 Démarrage Ultra-Rapide
 
-<img src="data_img/team.png" alt="Windows Optimizer Python Team Banner" style="width: 100%; max-width: 800px; height: auto;">
+### 👆 **CLIQUEZ ICI POUR COMMENCER** 
+**Double-cliquez sur :** `START_HERE.bat`
 
-[![Windows](https://img.shields.io/badge/Platform-Windows%2010%2F11-blue?style=for-the-badge&logo=windows)](https://www.microsoft.com/windows)
-[![Python](https://img.shields.io/badge/Python-3.8+-blue?style=for-the-badge&logo=python)](https://www.python.org/)
-[![GitHub Release](https://img.shields.io/badge/Release-v1.0-orange?style=for-the-badge)](https://github.com/yourusername/windows-optimizer-python/releases)
-[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
-
-### 🛡️ L'Optimiseur Windows Nouvelle Génération
-Optimisation système avancée avec restauration intelligente des paramètres
-
-[Documentation](#-documentation) • 
-[Télécharger](#-installation) • 
-[Contribuer](#-contribution) • 
-[Support](#-support)
+Ce fichier détecte automatiquement votre configuration et lance la meilleure version pour vous !
 
 ---
 
-</div>
+## 📁 Guide des Fichiers
 
-## 🌟 Points Forts
+### 🚀 **Fichiers de Lancement** (Choisissez UN seul)
 
-<div align="center">
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://raw.githubusercontent.com/feathericons/feather/master/icons/zap.svg" width="48" height="48" alt="Performance">
-<br><b>Performance</b>
-<br>Boost système intelligent
-</td>
-<td align="center" width="25%">
-<img src="https://raw.githubusercontent.com/feathericons/feather/master/icons/shield.svg" width="48" height="48" alt="Sécurité">
-<br><b>Sécurité</b>
-<br>Protection renforcée
-</td>
-<td align="center" width="25%">
-<img src="https://raw.githubusercontent.com/feathericons/feather/master/icons/refresh-cw.svg" width="48" height="48" alt="Restauration">
-<br><b>Restauration</b>
-<br>Retour instantané
-</td>
-<td align="center" width="25%">
-<img src="https://raw.githubusercontent.com/feathericons/feather/master/icons/settings.svg" width="48" height="48" alt="Contrôle">
-<br><b>Contrôle Total</b>
-<br>Personnalisation complète
-</td>
-</tr>
-</table>
-</div>
+| Fichier | Description | Recommandé pour |
+|---------|-------------|-----------------|
+| **`START_HERE.bat`** | ⭐ **DÉMARRAGE AUTOMATIQUE** | 👥 **Tous les utilisateurs** |
+| `universal_launcher.bat` | 🛠️ Gestionnaire complet | 👨‍💻 Utilisateurs avancés |
+| `universal_launcher.py` | 🐍 Version Python | 🐧 Linux/Mac |
+| `run_optimizer_pro.bat` | 🎮 Direct vers version Pro | 🎯 Gamers confirmés |
 
-## ✨ Fonctionnalités
+### 📚 **Documentation**
 
-<div align="center">
-<table>
-<tr>
-<td width="50%" align="center">
+| Fichier | Contenu |
+|---------|---------|
+| `README_PRO.md` | 📖 Documentation complète des fonctionnalités |
+| `README_UNIVERSAL.md` | 🛠️ Guide du gestionnaire universel |
+| `project_config.json` | ⚙️ Configuration technique du projet |
 
-### 🚀 Performance & Gaming
+### 🎮 **Scripts Principaux**
 
-- Optimisation avancée du système
-- Mode Gaming avec priorité GPU
-- Réduction de la latence réseau
-- Boost des performances DirectX
-- Optimisation mémoire et CPU
-- Tweaks spéciaux pour les jeux
+| Script | Fonction |
+|--------|----------|
+| `optimizer_python.py` | 🎮 **Version Gaming Pro** - Complète avec détection périphériques |
+| `optimizer_simple.py` | ⚡ **Version Simple** - Rapide et efficace |
+| `test_dependencies.py` | 🔍 Test et diagnostic des dépendances |
 
-</td>
-<td width="50%" align="center">
+---
 
-### 🛡️ Sécurité & Confidentialité
+## 🎮 Fonctionnalités Principales
 
-- Contrôle total de la télémétrie
-- Protection des données personnelles
-- Désactivation des trackers
-- Gestion des services Windows
-- Pare-feu optimisé
-- Sécurité renforcée
+### ✨ **Nouvelles Fonctionnalités Gaming v2.0**
 
-</td>
-</tr>
-<tr>
-<td width="50%" align="center">
+#### 🔍 **Détection Automatique Périphériques**
+- 🎮 **GPU Gaming** (NVIDIA, AMD) avec infos détaillées
+- 🎧 **Périphériques Audio** gaming et casques
+- 🖱️ **Souris/Claviers** gaming (Razer, Logitech, etc.)
+- 🎮 **Manettes** (Xbox, PlayStation, etc.)
+- ❄️ **Watercooling** et systèmes de refroidissement
+- 🌐 **Adaptateurs réseau** haute performance
 
-### 🧹 Nettoyage & Optimisation
+#### 💾 **Monitoring SSD Professionnel**
+- 📊 **Santé SSD** en temps réel avec alertes
+- 🔧 **Diagnostic automatique** des problèmes
+- ⚡ **Correction 1-clic** utilisation disque 100%
+- 🚀 **Optimisations spécialisées** pour gaming
 
-- Nettoyage système intelligent
-- Gestion des applications UWP
-- Optimisation du stockage
-- Suppression fichiers inutiles
-- Nettoyage du registre
-- Défragmentation avancée
+#### 🎯 **Optimisations Gaming Avancées**
+- 🎮 **Mode Gaming Windows** automatique
+- ⚙️ **Planification GPU** accélérée par matériel
+- 🌐 **Optimisations réseau** gaming (TCP, latence)
+- 🚀 **Mode haute performance** CPU
+- ❌ **Désactivation Xbox Game Bar** et interférences
 
-</td>
-<td width="50%" align="center">
+### 🛡️ **Sécurité et Fiabilité**
+- 💾 **Sauvegarde automatique** avant toute modification
+- 🔄 **Restauration complète** en 1 clic
+- 🛡️ **Environnement isolé** (pas de conflits)
+- 🔍 **Tests automatiques** de fonctionnement
 
-### 🔄 Sauvegarde & Restauration
+---
 
-- Restauration en 1-clic
-- Sauvegarde automatique
-- Historique des modifications
-- Points de restauration
-- Retour paramètres d'origine
-- Interface intuitive
+## 🚀 Installation et Utilisation
 
-</td>
-</tr>
-</table>
-</div>
+### 🎯 **Méthode Recommandée**
+1. **Double-cliquez** sur `START_HERE.bat`
+2. Le script détecte automatiquement si c'est votre première utilisation
+3. Installation automatique si nécessaire
+4. Lancement direct de la version Pro
 
-### 🔒 Protection de la Confidentialité
-- Désactivation des services de localisation
-- Suppression de l'ID publicitaire
-- Désactivation des demandes de commentaires
-- Protection contre la collecte de données
+### 🛠️ **Méthode Avancée**
+1. **Double-cliquez** sur `universal_launcher.bat`
+2. Choisissez **Option 1** (Installation Complète)
+3. Attendez la fin de l'installation
+4. Choisissez **Option 2** (Version Pro) ou **3** (Version Simple)
 
-### ⚙️ Gestion des Services
-- Contrôle des services Windows
-- Arrêt des services inutiles
-- Configuration automatique
-
-### 🧹 Nettoyage Système
-- Suppression des fichiers temporaires
-- Vidage de la corbeille
-- Nettoyage du cache des navigateurs
-- Suppression des journaux Windows
-
-### 🔄 Restauration Complète
-- **Sauvegarde automatique** des paramètres d'origine
-- **Restauration en un clic** des paramètres Windows d'origine
-- Sauvegarde manuelle
-- Historique des modifications
-
-## 💻 Interface & Utilisation
-
-<div align="center">
-<table>
-<tr>
-<td width="50%">
-
-### 📈 Dashboard Principal
-<img src="data_img/main.PNG" alt="Interface principale" style="max-width: 100%; height: auto;">
-
-</td>
-<td width="50%">
-
-### ⚙️ Version Simple
-<img src="data_img/simple.PNG" alt="Version simple" style="max-width: 100%; height: auto;">
-
-</td>
-</tr>
-</table>
-</div>
-
-## 💾 Installation
-
-<table>
-<tr>
-<td width="50%">
-
-### 🌟 Version Simple
+### 🐍 **Méthode Manuelle**
 ```bash
-# Installation rapide
-git clone https://github.com/username/optimizer
-cd optimizer/pythonversion
-./run_simple.bat
-```
-- Interface classique
-- Aucune dépendance
-- Installation instantanée
-
-</td>
-<td width="50%">
-
-### ✨ Version Complète
-```bash
-# 1. Installation des dépendances
-./install_dependencies.bat
+# 1. Installation
+python universal_launcher.py
+# Choisir option 1
 
 # 2. Lancement
-./run_optimizer.bat
+python optimizer_python.py
 ```
-- Interface moderne
-- Fonctionnalités avancées
-- Expérience complète
-
-</td>
-</tr>
-</table>
-
-## 🛠️ Installation
-
-1. **Cloner ou télécharger** le projet
-2. **Installer les dépendances** :
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. **Exécuter en tant qu'administrateur** :
-   ```bash
-   python optimizer_python.py
-   ```
-
-## 📦 Dépendances
-
-- `customtkinter` - Interface graphique moderne
-- `psutil` - Informations système
-- `pillow` - Gestion des images
-- Modules Windows intégrés (`winreg`, `subprocess`)
-
-## ⚠️ Important
-
-- **Exécutez toujours en tant qu'administrateur** pour accéder à toutes les fonctionnalités
-- **Une sauvegarde automatique** est créée avant toute modification
-- **Redémarrez votre ordinateur** après avoir appliqué les optimisations
-- **Testez sur une machine virtuelle** avant utilisation en production
-
-## 🔄 Fonctionnalité de Restauration
-
-### Sauvegarde Automatique
-- Sauvegarde automatique avant toute modification
-- Fichier JSON avec tous les paramètres d'origine
-- Horodatage des modifications
-
-### Restauration
-- **Restauration complète** : Remet tous les paramètres Windows à leur état d'origine
-- **Sauvegarde manuelle** : Créer une sauvegarde à tout moment
-- **Vérification d'intégrité** : Validation des sauvegardes
-
-## 🎯 Utilisation
-
-1. **Lancez l'application** en tant qu'administrateur
-2. **Sélectionnez les optimisations** désirées dans les différents onglets
-3. **Cliquez sur "Appliquer les optimisations"**
-4. **Redémarrez votre ordinateur**
-5. **Pour restaurer** : Utilisez l'onglet "Restauration" et cliquez sur "Restaurer tous les paramètres"
-
-## 🔧 Onglets Disponibles
-
-- **🚀 Performance** : Optimisations de vitesse et réactivité
-- **🔒 Confidentialité** : Protection des données personnelles
-- **⚙️ Services** : Gestion des services Windows
-- **🧹 Nettoyage** : Nettoyage des fichiers inutiles
-- **🔄 Restauration** : Restauration des paramètres d'origine
-- **ℹ️ À propos** : Informations sur l'application
-
-## 📝 Journal des Modifications
-
-La zone de log en bas de l'application affiche :
-- Toutes les actions effectuées
-- Les erreurs rencontrées
-- L'horodatage des opérations
-- Les confirmations de succès
-
-## 🛡️ Sécurité
-
-- **Sauvegarde obligatoire** avant toute modification
-- **Validation des permissions** administrateur
-- **Gestion d'erreurs** complète
-- **Restauration garantie** des paramètres d'origine
-
-## 🎨 Interface
-
-- **Design moderne** avec CustomTkinter
-- **Mode sombre** par défaut
-- **Interface intuitive** avec onglets
-- **Feedback visuel** en temps réel
-
-## 🔗 Basé sur
-
-Ce projet est une version Python du célèbre [Optimizer](https://github.com/hellzerg/optimizer) de hellzerg, avec des améliorations et une fonctionnalité de restauration complète.
-
-## ⚖️ Licence
-
-Utilisez cet outil à vos propres risques. Toujours créer une sauvegarde système avant utilisation.
 
 ---
 
-**🚨 ATTENTION** : Cet outil modifie des paramètres système importants. Utilisez-le uniquement si vous comprenez les implications de chaque modification.
+## 🎮 Versions Disponibles
 
-## 📖 Documentation
+### 🚀 **Optimizer Pro - Gaming Edition** (Recommandé)
+- ✅ **Détection complète** périphériques gaming
+- ✅ **Monitoring SSD** en temps réel  
+- ✅ **Optimisations gaming** avancées
+- ✅ **Interface moderne** CustomTkinter
+- ✅ **Corrections automatiques** problèmes
+- ✅ **7 onglets spécialisés** (Gaming, SSD, Performance, etc.)
 
-<div align="center">
-<table>
-<tr>
-<td width="33%" align="center">
-
-### 🛡️ Sécurité
-- Vérification admin
-- Sauvegarde auto
-- Protection système
-- Gestion des erreurs
-
-</td>
-<td width="33%" align="center">
-
-### 💻 Configuration
-- Windows 10/11
-- Python 3.8+
-- 50 Mo d'espace
-- Droits admin
-
-</td>
-<td width="33%" align="center">
-
-### 📈 Performance
-- Optimisation CPU
-- Boost mémoire
-- Réduction latence
-- Mode gaming
-
-</td>
-</tr>
-</table>
-</div>
-
-## 🧱 Contribution
-
-<div align="center">
-<table>
-<tr>
-<td width="25%" align="center">
-
-### 🔍 Issues
-Signaler bugs et
-suggestions
-
-</td>
-<td width="25%" align="center">
-
-### 👷 Pull Request
-Proposer des
-améliorations
-
-</td>
-<td width="25%" align="center">
-
-### 📖 Wiki
-Contribuer à la
-documentation
-
-</td>
-<td width="25%" align="center">
-
-### 👨‍💻 Code
-Améliorer les
-fonctionnalités
-
-</td>
-</tr>
-</table>
-</div>
-
-## 💬 Support & Communauté
-
-<div align="center">
-<table>
-<tr>
-<td width="25%" align="center">
-
-### 📧 Email
-support@
-optimizer.com
-
-</td>
-<td width="25%" align="center">
-
-### 💬 Discord
-[Rejoindre](https://
-discord.gg/optimizer)
-
-</td>
-<td width="25%" align="center">
-
-### 🌐 Site Web
-[optimizer.
-com](https://optimizer.com)
-
-</td>
-<td width="25%" align="center">
-
-### 📈 GitHub
-[Issues &
-Discussions](https://github.com)
-
-</td>
-</tr>
-</table>
-</div>
-
-## ⚖️ Licence
-
-<div align="center">
-
-Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de détails.
-
-**⚠️ Attention** : Utilisez cet outil à vos propres risques. Créez toujours une sauvegarde système avant utilisation.
+### ⚡ **Optimizer Simple**
+- ✅ **Interface épurée** et rapide
+- ✅ **Optimisations de base** efficaces
+- ✅ **Consommation minimale** de ressources
+- ✅ **Lancement instantané**
 
 ---
 
-<sub>Développé avec ❤️ par l'équipe Windows Optimizer Python</sub>
+## 💼 Version Commerciale
 
-[Documentation](#-documentation) • 
-[GitHub](https://github.com) • 
-[Signaler un bug](https://github.com/issues) • 
-[Contribuer](#-contribution)
+Cette version est **prête pour la commercialisation** :
 
-</div>
+### 🏪 **Distribution**
+- ✅ **Microsoft Store** compatible (package MSIX)
+- ✅ **Distribution directe** possible
+- ✅ **Licence propriétaire** incluse
+- ✅ **Support professionnel** intégré
+
+### 💰 **Modèle Commercial**
+- 🆓 **Version Gratuite** : Fonctionnalités de base
+- 💎 **Version Pro** : 9.99€/mois ou 99.99€/an
+- 🏆 **Version Lifetime** : 199.99€ (achat unique)
+
+### 🎯 **Public Cible**
+- 🎮 **Gamers professionnels** et streamers
+- ⚡ **Passionnés de performance** PC
+- 🏢 **Techniciens informatique**
+- 🏆 **Joueurs compétitifs** (eSports)
+
+---
+
+## 🔧 Prérequis
+
+### 📋 **Système**
+- 🖥️ **Windows 10/11** (toutes éditions)
+- 🧠 **4 GB RAM** minimum, 8 GB recommandé
+- 💾 **500 MB** espace libre
+- 👤 **Droits administrateur** (détection automatique)
+
+### 🐍 **Python** (Installation automatique si nécessaire)
+- 🐍 **Python 3.8+** (installation guidée)
+- 📦 **Pip** (mis à jour automatiquement)
+- 🔗 **Dépendances** (installées automatiquement)
+
+---
+
+## 🆘 Support et Aide
+
+### 🔧 **Résolution Automatique**
+Le gestionnaire universel inclut un **système de diagnostic et réparation automatique** :
+- Option **6. Réparation** dans le menu
+- Détection automatique des problèmes
+- Correction en 1 clic
+
+### 📞 **Support Professionnel**
+- 📧 **Email** : support@windowsoptimizerpro.com  
+- 🌐 **Documentation** : docs.windowsoptimizerpro.com
+- 💬 **Communauté** : community.windowsoptimizerpro.com
+- 🎫 **Tickets** : Via le site web
+
+### 🔍 **Auto-Diagnostic**
+```bash
+# Test complet automatique
+python test_dependencies.py
+
+# Ou via le gestionnaire
+universal_launcher.bat -> Option 4
+```
+
+---
+
+## ⚠️ Avertissements Importants
+
+> **🚨 ATTENTION** : Cet outil modifie des paramètres système critiques
+> 
+> **✅ TOUJOURS** :
+> - Créer un point de restauration Windows avant utilisation
+> - Utiliser le système de sauvegarde intégré (automatique)
+> - Tester sur un système non-critique d'abord
+> 
+> **🛡️ SÉCURITÉ** :
+> - Sauvegarde automatique de tous les paramètres modifiés
+> - Restauration complète possible en 1 clic
+> - Environnement virtuel isolé (aucun conflit)
+
+---
+
+## 🏆 Avantages Clés
+
+### ✨ **Simplicité Maximale**
+- 🎯 **1 seul clic** pour tout installer et lancer
+- ⚡ **0 configuration** manuelle requise
+- 🤖 **Détection automatique** de votre configuration
+
+### 🛡️ **Fiabilité Totale**  
+- 🔒 **Environnement isolé** (aucun conflit avec votre système)
+- 🔄 **Récupération automatique** en cas de problème
+- 💾 **Sauvegarde préventive** de tous les changements
+
+### 🚀 **Performance Optimale**
+- 🎮 **Spécialisé gaming** avec détection matérielle
+- 💾 **Monitoring SSD** professionnel
+- ⚡ **Optimisations automatiques** intelligentes
+
+### 💼 **Niveau Professionnel**
+- 🏪 **Prêt Microsoft Store**
+- 💰 **Modèle commercial** intégré  
+- 📞 **Support technique** professionnel
+
+---
+
+## 🔧 Maintenance et Optimisation (Nouveau!)
+
+### 🚀 **Scripts de Maintenance Automatique**
+
+| Script | Description | Utilisation |
+|--------|-------------|-------------|
+| `maintenance.py` | 🐍 **Maintenance Python complète** | Optimisation avancée |
+| `maintenance.bat` | 🪟 **Maintenance Windows** | Script rapide Windows |
+| **Option 5** dans `universal_launcher.bat` | 🛠️ **Menu maintenance** | Interface interactive |
+
+### ⚡ **Fonctionnalités de Maintenance**
+
+- ✅ **Mise à jour automatique** de pip vers la dernière version
+- ✅ **Optimisation des dépendances** Python
+- ✅ **Nettoyage du cache** pip et optimisation
+- ✅ **Vérification des versions** des packages clés
+- ✅ **Tests d'intégrité** automatiques
+- ✅ **Rapport de maintenance** détaillé
+- ✅ **Correction automatique** des avertissements
+
+### 💡 **Utilisation de la Maintenance**
+
+```bash
+# Option 1: Maintenance complète Python
+.venv\Scripts\python.exe maintenance.py
+
+# Option 2: Maintenance Windows rapide  
+double-clic sur maintenance.bat
+
+# Option 3: Via le gestionnaire universel
+universal_launcher.bat → Option 5
+```
+
+---
+
+## 🎉 Démarrage Immédiat
+
+**Plus besoin de lire davantage !**
+
+👆 **Double-cliquez sur `START_HERE.bat` et c'est parti !** 🚀
+
+Le script intelligent s'occupe de tout :
+- ✅ Détection de votre configuration
+- ✅ Installation automatique si nécessaire  
+- ✅ Lancement de la meilleure version
+- ✅ Gestion des erreurs et récupération
+
+**1 clic = Windows optimisé pour le gaming !** 🎮
+
+---
+
+*Windows Optimizer Pro - Gaming Edition v2.0*  
+*© 2025 Gaming Performance Team - L'optimiseur ultime pour gamers exigeants*

@@ -1,0 +1,79 @@
+{
+    "app_info": {
+        "name": "Windows Optimizer Pro - Gaming Edition",
+        "version": "2.0",
+        "author": "Gaming Performance Team",
+        "description": "Optimiseur Windows professionnel avec détection de périphériques gaming et monitoring SSD avancé",
+        "target_audience": "Gamers professionnels et passionnés de performance",
+        "distribution": "Compatible Microsoft Store et distribution commerciale"
+    },
+    "features": {
+        "gaming_optimization": {
+            "gpu_optimization": true,
+            "cpu_gaming_mode": true,
+            "network_optimization": true,
+            "hardware_gpu_scheduling": true,
+            "game_mode": true,
+            "fullscreen_optimizations": true
+        },
+        "device_detection": {
+            "gaming_peripherals": true,
+            "audio_devices": true,
+            "network_adapters": true,
+            "cooling_systems": true,
+            "storage_devices": true
+        },
+        "ssd_monitoring": {
+            "health_monitoring": true,
+            "performance_analysis": true,
+            "issue_diagnosis": true,
+            "automatic_fixes": true,
+            "real_time_monitoring": true
+        },
+        "system_optimization": {
+            "performance_tweaks": true,
+            "privacy_protection": true,
+            "service_management": true,
+            "system_cleanup": true,
+            "backup_restore": true
+        }
+    },
+    "requirements": {
+        "os": "Windows 10/11",
+        "python": "3.8+",
+        "admin_rights": true,
+        "dependencies": [
+            "customtkinter>=5.1.2",
+            "psutil>=5.9.0",
+            "WMI>=1.5.1",
+            "requests>=2.31.0",
+            "pywin32>=306"
+        ]
+    },
+    "monetization": {
+        "freemium_model": {
+            "free_features": [
+                "Basic gaming optimizations",
+                "Simple SSD monitoring",
+                "Basic device detection"
+            ],
+            "pro_features": [
+                "Advanced gaming profiles",
+                "Real-time monitoring",
+                "Automatic issue resolution",
+                "Priority support"
+            ]
+        },
+        "pricing": {
+            "free_version": "Gratuit",
+            "pro_version": "9.99€/mois ou 99.99€/an",
+            "lifetime": "199.99€"
+        }
+    },
+    "legal": {
+        "license": "Proprietary",
+        "privacy_compliant": true,
+        "data_collection": "Minimal, anonymized performance data only",
+        "user_consent": "Required for all data collection"
+    }
+}

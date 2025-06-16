@@ -1,0 +1,17 @@
+{
+  "18446744071562067969\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\AdvertisingInfo\\Enabled": {
+    "value": 0,
+    "type": 4,
+    "hkey": 18446744071562067969
+  },
+  "18446744071562067970\\SOFTWARE\\Policies\\Microsoft\\Windows\\DataCollection\\AllowTelemetry": {
+    "value": 0,
+    "type": 4,
+    "hkey": 18446744071562067970
+  },
+  "18446744071562067969\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Explorer\\VisualEffects\\VisualFXSetting": {
+    "value": 2,
+    "type": 4,
+    "hkey": 18446744071562067969
+  }
+}

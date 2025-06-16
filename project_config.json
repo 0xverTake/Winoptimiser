@@ -1,0 +1,52 @@
+{
+  "project": {
+    "name": "Windows Optimizer Pro - Gaming Edition",
+    "version": "2.0",
+    "build": "2025.06.16",
+    "author": "Gaming Performance Team"
+  },
+  "launchers": {
+    "quick_start": "START_HERE.bat",
+    "universal_manager": "universal_launcher.bat",
+    "universal_python": "universal_launcher.py",
+    "pro_version": "run_optimizer_pro.bat",
+    "simple_launcher": "run_simple.bat"
+  },
+  "scripts": {
+    "main": "optimizer_python.py",
+    "simple": "optimizer_simple.py", 
+    "test": "test_dependencies.py",
+    "restore": "restore_windows_defaults.py"
+  },
+  "installation": {
+    "auto_install": "install_gaming_dependencies.bat",
+    "requirements": "requirements.txt",
+    "venv_path": ".venv",
+    "python_min_version": "3.8"
+  },
+  "features": {
+    "gaming_detection": true,
+    "ssd_monitoring": true,
+    "real_time_monitoring": true,
+    "automatic_fixes": true,
+    "backup_restore": true,
+    "wmi_integration": true,
+    "admin_privileges": true
+  },
+  "paths": {
+    "backup_file": "optimizer_backup.json",
+    "config_file": "app_config_pro.json",
+    "launcher_config": "launcher_config.json"
+  },
+  "support": {
+    "documentation": "README_PRO.md",
+    "universal_guide": "README_UNIVERSAL.md",
+    "troubleshooting": "Contact support@windowsoptimizerpro.com"
+  },
+  "deployment": {
+    "target_os": ["Windows 10", "Windows 11"],
+    "distribution": ["Microsoft Store", "Direct Download", "Enterprise"],
+    "license": "Proprietary",
+    "commercial_ready": true
+  }
+}
