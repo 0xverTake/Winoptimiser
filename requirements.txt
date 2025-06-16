@@ -1,0 +1,7 @@
+setuptools>=69.0.0
+customtkinter==5.1.2
+Pillow>=9.0.0
+psutil>=5.9.0
+requests>=2.31.0
+json5>=0.9.14
+subprocess32; sys_platform == "win32"
