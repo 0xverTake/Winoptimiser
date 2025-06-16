@@ -127,11 +127,6 @@ Cette version est **prête pour la commercialisation** :
 - ✅ **Licence propriétaire** incluse
 - ✅ **Support professionnel** intégré
 
-### 💰 **Modèle Commercial**
-- 🆓 **Version Gratuite** : Fonctionnalités de base
-- 💎 **Version Pro** : 9.99€/mois ou 99.99€/an
-- 🏆 **Version Lifetime** : 199.99€ (achat unique)
-
 ### 🎯 **Public Cible**
 - 🎮 **Gamers professionnels** et streamers
 - ⚡ **Passionnés de performance** PC
